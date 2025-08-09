@@ -35,4 +35,8 @@ The system is designed as a web-based application and follows an MVC architectur
 
 ---
 
+👨‍💻 **Author:** Dinkar Prasad  
+📧 Email: dinkarprasad682@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/dinkarprasad682)
+
 
